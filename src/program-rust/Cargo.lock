@@ -3607,7 +3607,7 @@ name = "solana-bpf-helloworld"
 version = "0.0.1"
 dependencies = [
  "borsh 0.9.3",
- "borsh-derive 0.10.3",
+ "borsh-derive 1.5.0",
  "getrandom 0.2.15",
  "solana-program",
  "solana-program-test",
